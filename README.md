@@ -173,7 +173,7 @@ Within the following table, we summarized the current NNI capabilities, we are g
         <li><a href="https://nni.readthedocs.io/en/stable/TrainingService/LocalMode.html">Local Machine</a></li>
         <li><a href="https://nni.readthedocs.io/en/stable/TrainingService/RemoteMachineMode.html">Remote Servers</a></li>
         <li><a href="https://nni.readthedocs.io/en/stable/TrainingService/HybridMode.html">Hybrid mode</a></li>
-        <li><a href="https://nni.readthedocs.io/en/stable/TrainingService/AMLMode.html">AML(Azure Machine Learning)</a></li>
+        <li><a href="https://nni.readthedocs.io/en/stable/TrainingService/AMLMode.html">AML (Azure Machine Learning)</a></li>
         <li><b>Kubernetes based services</b></li>
         <ul>
           <li><a href="https://nni.readthedocs.io/en/stable/TrainingService/PaiMode.html">OpenPAI</a></li>
